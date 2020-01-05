@@ -5,6 +5,10 @@
 
 <img src="https://raw.githubusercontent.com/xpowercoder/modern-oranges-theme/master/icon.png" width="64">
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/xpowercoder/modern-oranges-theme/master/screenshot.png">
+</p>
+
 ## Install
 Use the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/xpowercoder.modern-oranges)
 
