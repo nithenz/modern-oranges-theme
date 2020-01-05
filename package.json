@@ -11,13 +11,11 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Modern Oranges",
-                "uiTheme": "vs-dark",
-                "path": "./themes/theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Modern Oranges",
+            "uiTheme": "vs-dark",
+            "path": "./themes/theme.json"
+        }]
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -35,6 +33,7 @@
         "vscoetheme",
         "vscode"
     ],
+    "icon": "icon.png",
     "author": "xpowercoder@ya.ru",
     "license": "MIT",
     "homepage": "https://github.com/xpowercoder/modern-oranges-theme#readme"
