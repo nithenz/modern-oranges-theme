@@ -1,0 +1,21 @@
+{
+    "name": "modern-oranges",
+    "displayName": "Modern Oranges",
+    "description": "Oranges",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Modern Oranges",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Modern Oranges-color-theme.json"
+            }
+        ]
+    }
+}
