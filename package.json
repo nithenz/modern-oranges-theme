@@ -1,21 +1,40 @@
 {
-    "name": "modern-oranges",
-    "displayName": "Modern Oranges",
-    "description": "Oranges",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.41.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Modern Oranges",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Modern Oranges-color-theme.json"
-            }
-        ]
-    }
+  "name": "modern-oranges",
+  "displayName": "Modern Oranges",
+  "description": "Oranges",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Modern Oranges",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Modern Oranges-color-theme.json"
+      }
+    ]
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpowercoder/modern-oranges-theme.git"
+  },
+  "keywords": [
+    "theme",
+    "vscoetheme",
+    "vscode"
+  ],
+  "author": "xpowercoder@ya.ru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xpowercoder/modern-oranges-theme/issues"
+  },
+  "homepage": "https://github.com/xpowercoder/modern-oranges-theme#readme"
 }
