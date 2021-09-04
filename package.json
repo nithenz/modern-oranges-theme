@@ -1,42 +1,52 @@
 {
-    "name": "modern-oranges",
-    "displayName": "Modern Oranges",
-    "description": "Modern Oranges theme for VSCode",
-    "version": "0.0.4",
-    "publisher": "xpowercoder",
-    "engines": {
-        "vscode": "^1.41.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Modern Oranges",
-                "uiTheme": "vs-dark",
-                "path": "./themes/theme.json"
-            }
-        ]
-    },
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/xpowercoder/modern-oranges-theme.git"
-    },
-    "bugs": {
-        "url": "https://github.com/xpowercoder/modern-oranges-theme/issues",
-        "email": "xpowercoder@ya.ru"
-    },
-    "keywords": [
-        "theme",
-        "vscoetheme",
-        "vscode"
-    ],
-    "icon": "icon.png",
-    "author": "xpowercoder@ya.ru",
-    "license": "MIT",
-    "homepage": "https://github.com/xpowercoder/modern-oranges-theme#readme"
+  "name": "modern-oranges",
+  "displayName": "Modern Oranges Theme",
+  "description": "Modern Oranges theme for VSCode",
+  "version": "0.0.4",
+  "publisher": "nithenz",
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Modern Oranges",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mo.default.json"
+      },
+      {
+        "label": "Modern Oranges Operator",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mo.operator.json"
+      },
+      {
+        "label": "Modern Oranges Vibrate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mo.vibrate.json"
+      }
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nithenz/modern-oranges-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nithenz/modern-oranges-theme/issues",
+    "email": "nithenz@ya.ru"
+  },
+  "keywords": [
+    "theme",
+    "vscoetheme",
+    "vscode"
+  ],
+  "icon": "icon.png",
+  "author": "nithenz@ya.ru",
+  "license": "MIT",
+  "homepage": "https://github.com/nithenz/modern-oranges-theme#readme"
 }
