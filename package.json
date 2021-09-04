@@ -3,7 +3,7 @@
   "displayName": "Modern Oranges Theme",
   "description": "Modern Oranges theme for VSCode",
   "version": "0.1.0",
-  "publisher": "nithenz",
+  "publisher": "xpowercoder",
   "engines": {
     "vscode": "^1.41.0"
   },
