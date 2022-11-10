@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "publisher": "xpowercoder",
   "engines": {
-    "vscode": "^1.41.0"
+    "vscode": "^1.73.0"
   },
   "categories": [
     "Themes"
@@ -26,6 +26,16 @@
         "label": "Modern Oranges Vibrate",
         "uiTheme": "vs-dark",
         "path": "./themes/mo.vibrate.json"
+      },
+      {
+        "label": "Modern Oranges Vibrate with gray background",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mo.vibrate-gray-back.json"
+      },
+      {
+        "label": "Modern Oranges Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mo.black.json"
       }
     ]
   },
