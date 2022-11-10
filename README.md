@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/xpowercoder/modern-oranges-theme/master/screenshot.png">
+<img src="https://raw.githubusercontent.com/xpowercoder/modern-oranges-theme/master/banner.png">
 </p>
 
 ## Install
