@@ -96,7 +96,7 @@
     "editorBracketHighlight.foreground5": "#f34e3f",
     "editorBracketHighlight.foreground6": "#abb2c0",
     "editorBracketHighlight.unexpectedBracket.foreground": "#2e2929",
-    "titleBar.activeForeground": "#ff9317",
+    "titleBar.activeForeground": "#fafafa",
     "button.background": "#343434"
   },
   "tokenColors": [
